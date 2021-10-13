@@ -1,0 +1,26 @@
+{
+  "name": "pc-turnoff",
+  "version": "1.0.0",
+  "description": "windows shutdown project to automate with google home / alexa / etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulormsj/pc-turnoff.git"
+  },
+  "keywords": [
+    "aws",
+    "sqs"
+  ],
+  "author": "paulormsj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulormsj/pc-turnoff/issues"
+  },
+  "homepage": "https://github.com/paulormsj/pc-turnoff#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1006.0"
+  }
+}
